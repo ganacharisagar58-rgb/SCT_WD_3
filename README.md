@@ -1,1 +1,4 @@
 # SCT_WD_3
+# NEXUS QUIZ
+
+NEXUS QUIZ is a futuristic gaming-inspired quiz web application built using HTML, CSS, and Vanilla JavaScript that delivers an immersive cyberpunk-style experience through glassmorphism UI, neon effects, animated particle backgrounds, responsive layouts, and interactive gameplay mechanics. The platform allows users to participate in multiple quiz categories including AI & Tech, Science, Gaming, and Cyber Security while tracking scores, streaks, timers, and leaderboard rankings in real time. Featuring dynamic question rendering, countdown-based challenges, category selection, animated transitions, global leaderboard simulation, responsive navigation, and fully interactive quiz logic without any external frameworks or backend services, NEXUS QUIZ provides a modern, engaging, and visually stunning competitive quiz arena optimized for desktop, tablet, and mobile devices.
